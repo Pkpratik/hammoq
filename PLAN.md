@@ -1,4 +1,4 @@
-# Assessment notes (edit into your own words before recording)
+# Assessment notes
 
 ## 3 key decisions
 1. **Server-side validation and field whitelisting.** The API validates title length, status and priority with Mongoose and only accepts known fields, so the UI is not the only line of defence.
